@@ -9,7 +9,7 @@ set :session_secret, 'super secret'
 # end
 
 get '/cat_speaks' do
-  p params
+  # p params
   @quote = params[:quote]
   erb(:index)
 end
