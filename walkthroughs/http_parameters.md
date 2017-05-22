@@ -1,6 +1,6 @@
 # Walkthrough - HTTP III: Parameters
 
-[Back to the Challenge](../http_parameters.md)
+[Back to the Challenge](../challenge%20READMEs/http_parameters.md)
 
 Let's try to dissect the URL, "http://www.example.com/home?name=Bob&age=21"
 
@@ -17,4 +17,4 @@ I can visit 'http://makersipsum.herokuapp.com/' passing my name as a parameter w
 
 This greets me. When I revisit the page, however, without passing a parameter, the greeting disappears. What this tells us is that passing data in this way does not cause changes to persist to the server.
 
-[Forward to the Challenge Map](../README.md)
+[Forward to the Challenge Map](../challenge%20READMEs/README.md)

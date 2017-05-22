@@ -1,6 +1,6 @@
 # Walkthrough – Test Helpers
 
-[Back to the Challenge](../test_helpers.md)
+[Back to the Challenge](../challenge%20READMEs/test_helpers.md)
 
 Let's make a new file, `web_helpers.rb`. We can use this file to store actions we commonly use in our feature tests.
 
@@ -74,4 +74,4 @@ That's much neater! Plus, we now have a handy method `sign_in_and_play` that wil
 
 OK, let's implement another user story.
 
-[Forward to the Challenge Map](../README.md)
+[Forward to the Challenge Map](../challenge%20READMEs/README.md)

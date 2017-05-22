@@ -1,6 +1,6 @@
 # Walkthrough - The Hypertext Transfer Protocol
 
-[Back to the Challenge](../http.md)
+[Back to the Challenge](../challenge%20READMEs/http.md)
 
 The following command makes a request to 'http://makersipsum.herokuapp.com/' with "verbose" mode enabled:
 
@@ -41,4 +41,4 @@ Above are the *response* headers. They originate from the server. We can see *me
 ```
 Lastly, the *body* of the response. This is the information that motivated our request in the first place. It originated from the server.
 
-[Forward to the Challenge Map](../README.md)
+[Forward to the Challenge Map](../challenge%20READMEs/README.md)

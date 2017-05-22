@@ -55,4 +55,4 @@ Before proceeding, you'll want to commit the code, push it to Github and switch 
 
 Next up, let's use _parameters_ to add some more sophistication to our kitten website.
 
-[Forward to the Challenge Map](../README.md)
+[Forward to the Challenge Map](../challenge%20READMEs/README.md)

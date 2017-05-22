@@ -1,6 +1,6 @@
 # Walkthrough – Sinatra: `POST`ed `params`
 
-[Back to the Challenge](../sinatra_posted_params.md)
+[Back to the Challenge](../challenge%20READMEs/sinatra_posted_params.md)
 
 There are many parts to any HTTP request. Using the Sinatra server logs, here is an example:
 
@@ -74,4 +74,4 @@ Secondly, the `params` we print to the console have not changed. This is what we
 
 In the next challenge, we will take a closer look at the HTTP requests we are sending by using the Chrome inspector.
 
-[Forward to the Challenge Map](../README.md)
+[Forward to the Challenge Map](../challenge%20READMEs/README.md)

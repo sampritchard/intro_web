@@ -1,6 +1,6 @@
 # Walkthrough – Switching Turns
 
-[Back to the Challenge](../switching_turns.md)
+[Back to the Challenge](../challenge%20READMEs/switching_turns.md)
 
 Let's check our User Story:
 
@@ -127,4 +127,4 @@ end
 
 Let's check our feature tests - everything passes. Nice, we can switch turns! Now let's ensure the other player can join in our game.
 
-[Forward to the Challenge Map](../README.md)
+[Forward to the Challenge Map](../challenge%20READMEs/README.md)

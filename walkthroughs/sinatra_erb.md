@@ -1,6 +1,6 @@
 # Walkthrough – Sinatra: `erb`
 
-[Back to the Challenge](../sinatra_erb.md)
+[Back to the Challenge](../challenge%20READMEs/sinatra_erb.md)
 
 Let's say we want to give our kitten a name. For kicks, we're going to select a random name that will change each time the page is reloaded. For now, we'll do this _within the view_.
 
@@ -59,4 +59,4 @@ And so, a page that looks like this:
 
 So, we've just learned how to evaluate Ruby expressions within our views, using `erb`. Next up, we'll move this kind of logic in to the controller (or 'routing') layer to better separate our concerns. Naturally you'll want to commit the code, push it to Github and switch Driver/Navigator Roles &nbsp;:twisted_rightwards_arrows:.
 
-[Forward to the Challenge Map](../README.md)
+[Forward to the Challenge Map](../challenge%20READMEs/README.md)

@@ -1,6 +1,6 @@
 # Walkthrough – Entering Players
 
-[Back to the Challenge](../entering_players.md)
+[Back to the Challenge](../challenge%20READMEs/entering_players.md)
 
 Our User Story:
 
@@ -186,4 +186,4 @@ We want to Start a fight by entering our names and seeing them
 
 It feels like we've solved that. Let's move on to the next one!
 
-[Forward to the Challenge Map](../README.md)
+[Forward to the Challenge Map](../challenge%20READMEs/README.md)

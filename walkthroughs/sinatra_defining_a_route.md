@@ -1,6 +1,6 @@
 # Walkthrough – Sinatra: Defining a route
 
-[Back to the Challenge](../sinatra_defining_a_route.md)
+[Back to the Challenge](../challenge%20READMEs/sinatra_defining_a_route.md)
 
 Let's create a basic web application using Sinatra. It will have only one page and on this page there will be "hello!" text. This is what it will look like:
 
@@ -57,4 +57,4 @@ What this method does is tell Sinatra to respond to a `GET` HTTP request to the 
 
 The '/' part of the address is the last slash in `http://localhost:4567/`. Next up, let's try adding another page.
 
-[Forward to the Challenge Map](../README.md)
+[Forward to the Challenge Map](../challenge%20READMEs/README.md)

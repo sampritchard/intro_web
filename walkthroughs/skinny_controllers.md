@@ -1,6 +1,6 @@
 # Walkthrough – Skinny Controllers
 
-[Back to the Challenge](../skinny_controllers.md)
+[Back to the Challenge](../challenge%20READMEs/skinny_controllers.md)
 
 We want to make our controllers skinnier. Let's access our `Player` instances through `Game` to help us do that. First, we need `Game` to accept two `Player` instances at instantiation (in other words, we'd like to be able to do `Game.new(player_1, player_2)`). So, let's update our tests (and make sure we can access those players from `Game`'s public interface):
 
@@ -111,4 +111,4 @@ And the `play.erb` view:
 
 OK, our controller is much skinnier now! Refactoring complexity into the model is hugely advantageous. You'll see that we can now implement many User Stories in rapid succession without worrying too much about controller difficulties. Let's move on!
 
-[Forward to the Challenge Map](../README.md)
+[Forward to the Challenge Map](../challenge%20READMEs/README.md)

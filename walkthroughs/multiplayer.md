@@ -1,6 +1,6 @@
 # Walkthrough – Multiplayer
 
-[Back to the Challenge](../multiplayer.md)
+[Back to the Challenge](../challenge%20READMEs/multiplayer.md)
 
 Let's implement our User Stories in turn. In this walkthrough, I'll link you to my git commits for implementing each story. You should be able to interpret my intentions from the commit itself.
 
@@ -42,4 +42,4 @@ By this point, I was concerned that `Game` was getting overly-responsible again,
 
 Once you're happy you have approximated solutions to these feature tests, let's move on to losing and winning the game.
 
-[Forward to the Challenge Map](../README.md)
+[Forward to the Challenge Map](../challenge%20READMEs/README.md)

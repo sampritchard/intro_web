@@ -1,6 +1,6 @@
 # Walkthrough – Sinatra: using Forms
 
-[Back to the Challenge](../sinatra_defining_a_route.md)
+[Back to the Challenge](../challenge%20READMEs/sinatra_defining_a_route.md)
 
 It's inconvenient to enter the cat's name directly in the URL. Let's create a form to ask for the cat's name. Modify your erb template:
 
@@ -76,4 +76,4 @@ Github and switch! :twisted_rightwards_arrows:
 
 Next up, we'll hide our query parameters by using the `POST` action.
 
-[Forward to the Challenge Map](../README.md)
+[Forward to the Challenge Map](../challenge%20READMEs/README.md)

@@ -1,6 +1,6 @@
 # Walkthrough – Viewing hit points
 
-[Back to the Challenge](../viewing_hit_points.md)
+[Back to the Challenge](../challenge%20READMEs/viewing_hit_points.md)
 
 Let's consider our User Story:
 
@@ -48,4 +48,4 @@ Running `rspec`, our error essentially says 'Where are my hit points!? I don't s
 
 Ta-da! Our test passes. But our tests are starting to duplicate the same user actions again and again: visiting the home page, entering names, and signing in. In the next challenge, we will DRY up our tests using a **helper**.
 
-[Forward to the Challenge Map](../README.md)
+[Forward to the Challenge Map](../challenge%20READMEs/README.md)

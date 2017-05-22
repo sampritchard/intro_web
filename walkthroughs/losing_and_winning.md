@@ -1,6 +1,6 @@
 # Walkthrough – Losing and Winning
 
-[Back to the Challenge](../losing_and_winning.md)
+[Back to the Challenge](../challenge%20READMEs/losing_and_winning.md)
 
 Let's check our User Story:
 
@@ -174,4 +174,4 @@ And creating a `game_over.erb` view file with a losing message:
 
 Everything passes, and we're done!
 
-[Next challenge](../killing_the_global_variable.md)
+[Next challenge](../challenge%20READMEs/killing_the_global_variable.md)

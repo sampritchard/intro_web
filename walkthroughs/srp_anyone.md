@@ -1,6 +1,6 @@
 # Walkthrough – Single Responsibility Principle, anyone?
 
-[Back to the Challenge](../srp_anyone.md)
+[Back to the Challenge](../challenge%20READMEs/srp_anyone.md)
 
 Let's extract the responsibility for attacking players from the `Player` class into a `Game` class.
 
@@ -51,4 +51,4 @@ end
 
 Our `Player` class has one less responsibility. Great! Now let's minimise those pesky global variables using our new `Game` class.
 
-[Forward to the Challenge Map](../README.md)
+[Forward to the Challenge Map](../challenge%20READMEs/README.md)

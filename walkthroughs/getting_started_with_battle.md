@@ -1,6 +1,6 @@
 # Walkthrough – Getting Started with Battle
 
-[Back to the Challenge](../getting_started_with_battle.md)
+[Back to the Challenge](../challenge%20READMEs/getting_started_with_battle.md)
 
 Our project directory should look something like this:
 
@@ -79,4 +79,4 @@ Our project directory now looks like this:
 
 OK, we're done with this challenge. Next up, we'll implement our first User Story.
 
-[Forward to the Challenge Map](../README.md)
+[Forward to the Challenge Map](../challenge%20READMEs/README.md)

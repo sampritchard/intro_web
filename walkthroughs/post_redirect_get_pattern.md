@@ -1,6 +1,6 @@
 # Walkthrough – POST/`redirect`/GET pattern
 
-[Back to the Challenge](../post_redirect_get_pattern.md)
+[Back to the Challenge](../challenge%20READMEs/post_redirect_get_pattern.md)
 
 Let's enable the `session` so we can store information between requests.
 
@@ -63,4 +63,4 @@ end
 
 If we run `rspec` again, our feature test will pass. Congratulations, you have refactored a POST request that renders a view to use a POST-redirect loop! OK, let's do another user story.
 
-[Forward to the Challenge Map](../README.md)
+[Forward to the Challenge Map](../challenge%20READMEs/README.md)

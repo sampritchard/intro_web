@@ -1,6 +1,6 @@
 # Walkthrough – Sinatra: Returning HTML
 
-[Back to the Challenge](../sinatra_returning_html.md)
+[Back to the Challenge](../challenge%20READMEs/sinatra_returning_html.md)
 
 "hello" is a boring thing to send to our users. We can do better!
 
@@ -45,4 +45,4 @@ Before we move on let's commit our code, push it to Github and switch Driver/Nav
 
 Next up, we'll see if we can modularize some of our code into a _view_.
 
-[Forward to the Challenge Map](../README.md)
+[Forward to the Challenge Map](../challenge%20READMEs/README.md)

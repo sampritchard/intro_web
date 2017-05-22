@@ -1,6 +1,6 @@
 # Walkthrough – Getting test infrastructure set up
 
-[Back to the Challenge](../getting_test_infrastructure_set_up.md)
+[Back to the Challenge](../challenge%20READMEs/getting_test_infrastructure_set_up.md)
 
 Inside our Gemfile, let's add the dependency
 
@@ -87,4 +87,4 @@ end
 
 We run `rspec`. RSpec outputs `1 example, 0 failures`.
 
-[Forward to the Challenge Map](../README.md)
+[Forward to the Challenge Map](../challenge%20READMEs/README.md)

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Cat!!!</title>
+  <!-- <link href='./my_stylesheet.css' type='text/css' rel='stylesheet'/> */ -->
+</head>
+<body>
+<img src='https://s-media-cache-ak0.pinimg.com/originals/a6/bf/db/a6bfdbe9e742cc744c3e326e613f95ba.jpg'/>
+
+<% if @quote %>
+<h1><%=@quote%></h1>
+<% end %>
+  <form action="/cat_speaks">
+    <input type="text" name="quote">
+    <input type="submit" value="Submit">
+  </form>
+
+</body>
+</html>

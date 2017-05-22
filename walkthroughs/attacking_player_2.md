@@ -1,6 +1,6 @@
 # Walkthrough – Entering Players
 
-[Back to the Challenge](../attacking_player_2.md)
+[Back to the Challenge](../challenge%20READMEs/attacking_player_2.md)
 
 Our User Story:
 
@@ -69,4 +69,4 @@ But you could just as well use a `form` element (so long as I changed my feature
 
 Let's run `rspec` - everything passes. On to the next User Story!
 
-[Forward to the Challenge Map](../README.md)
+[Forward to the Challenge Map](../challenge%20READMEs/README.md)

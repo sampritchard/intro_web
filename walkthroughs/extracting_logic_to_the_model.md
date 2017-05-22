@@ -1,6 +1,6 @@
 # Walkthrough – Extracting Logic to the Model
 
-[Back to the Challenge](../extracting_logic_to_the_model.md)
+[Back to the Challenge](../challenge%20READMEs/extracting_logic_to_the_model.md)
 
 Our User Story:
 
@@ -103,4 +103,4 @@ end
 
 OK! We've extracted a bunch of logic into our Model layer. Now, let's implement the hit points functionality from the User Story we're trying to solve.
 
-[Forward to the Challenge Map](../README.md)
+[Forward to the Challenge Map](../challenge%20READMEs/README.md)

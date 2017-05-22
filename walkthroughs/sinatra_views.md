@@ -1,6 +1,6 @@
 # Walkthrough – Sinatra: Views
 
-[Back to the Challenge](../sinatra_views.md)
+[Back to the Challenge](../challenge%20READMEs/sinatra_views.md)
 
 So, we've got a kitten inside a box with a red border. The code looks something like this:
 
@@ -40,4 +40,4 @@ We just called `erb` a _templating system_. The reason is that it's actually muc
 
 In the next Challenge, we'll execute Ruby code within a View.
 
-[Forward to the Challenge Map](../README.md)
+[Forward to the Challenge Map](../challenge%20READMEs/README.md)

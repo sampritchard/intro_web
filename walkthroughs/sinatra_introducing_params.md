@@ -1,6 +1,6 @@
 # Walkthrough – Sinatra: Introducing `params`
 
-[Back to the Challenge](../sinatra_introducing_params.md)
+[Back to the Challenge](../challenge%20READMEs/sinatra_introducing_params.md)
 
 Our current web page is not interactive. It doesn't take any input from the user. That could be a very useful feature! Pretty much any website you see online is interactive and that's what makes the web such an exciting place.
 
@@ -62,4 +62,4 @@ Github and switch! :twisted_rightwards_arrows:
 
 It's a pain to interact with our app via the URL bar. Next up, let's allow our users to interact with our app via a `<form>` element.
 
-[Forward to the Challenge Map](../README.md)
+[Forward to the Challenge Map](../challenge%20READMEs/README.md)

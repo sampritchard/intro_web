@@ -106,4 +106,4 @@ Now, `@game` is already defined for us in every route; and in `/names`, it is si
 The End.
 
 Now let's move on to some extension exercises:
-[Forward to the Challenge Map](../README.md)
+[Forward to the Challenge Map](../challenge%20READMEs/README.md)

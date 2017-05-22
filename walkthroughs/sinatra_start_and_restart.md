@@ -1,6 +1,6 @@
 # Walkthrough – Sinatra: Start and restart
 
-[Back to the Challenge](../sinatra_start_and_restart.md)
+[Back to the Challenge](../challenge%20READMEs/sinatra_start_and_restart.md)
 
 If we wanted to have another page at `http://localhost:4567/secret`, then we'd do the following:
 
@@ -56,4 +56,4 @@ Shotgun works by reloading your entire application on every request. While this 
 
 Webpages that return strings are kind of boring. Next up, let's add some [HTML](pills/html.md) to the mix.
 
-[Forward to the Challenge Map](../README.md)
+[Forward to the Challenge Map](../challenge%20READMEs/README.md)
